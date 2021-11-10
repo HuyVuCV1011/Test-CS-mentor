@@ -56,7 +56,7 @@ Lương tháng của nhân viên sẽ được tính bằng tổng lương ngày
 lương tháng sẽ có thêm hệ số phụ cấp); trong đó lương ngày được tính bằng Mức lương * hệ số
 của ngày làm việc (hoặc nghỉ có lý do)
 
-*Hãy*:
+**Hãy**:
 - Thiết kế cây kế thừa (mỗi node là một class gồm các method & attribute)
 - Cài đặt các class đã thiết kế
 - Giả sử có một list các nhân viên, tính lương cho từng người với một static method ở lớp nhân viên
